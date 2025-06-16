@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Compose Quadrant</string>
-    <string name="text_composable">Text composable</string>
-    <string name="text_composable_description">Displays text and follows the recommended Material Design guidelines.</string>
-    <string name="image_composable">Image composable</string>
-    <string name="image_composable_description">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="app_name">Arte y Confort</string>
+    <string name="text_composable">Arte y Confort</string>
+    <string name="text_composable_description">Diseñamos y fabricamos mobiliarios para el hogar. Cocinas y muebles modernos.</string>
+    <string name="image_composable">Nuestros productos</string>
+    <string name="image_composable_description">Diseñamos productos de calidad para hogares cálidos y acogedores.</string>
     <string name="row_composable">Row composable</string>
     <string name="row_composable_description">A layout composable that places its children in a horizontal sequence.</string>
     <string name="column_composable">Column composable</string>
